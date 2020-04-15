@@ -1,7 +1,7 @@
 # segundaclase2020
 repositorio de trabajo en }
 
-##subtitulo 
+## subtitulo
 
 
 **arbol** : ser vivo que nace de la tierra
